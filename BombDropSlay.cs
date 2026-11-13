@@ -211,11 +211,11 @@ public sealed class BombDropSlayConfig : BasePluginConfig
     public int CountdownSeconds { get; set; } = 10;
     public string ChatPrefix { get; set; } = "[BombDropSlay]";
     public string DropChatMessage { get; set; } =
-        "C4 a fost aruncata de {player}! Daca nimeni nu o ridica in {seconds} secunde, va primi slay.";
+        "{player} dropped the C4! If nobody picks it up within {seconds} seconds, they will be slain.";
     public string DropHudMessage { get; set; } =
-        "C4 a fost aruncata de {player}! Daca nimeni nu o ridica in {seconds} secunde, va primi slay.";
-    public string CountdownChatMessage { get; set; } = "C4 trebuie ridicata in {seconds} secunde!";
-    public string CountdownHudMessage { get; set; } = "C4 trebuie ridicata in {seconds} secunde!";
-    public string SlayChatMessage { get; set; } = "Ai primit slay pentru ca ai aruncat C4!";
-    public string SlayHudMessage { get; set; } = "Ai primit slay pentru ca ai aruncat C4!";
+        "{player} dropped the C4! If nobody picks it up within {seconds} seconds, they will be slain.";
+    public string CountdownChatMessage { get; set; } = "The C4 must be picked up within {seconds} seconds!";
+    public string CountdownHudMessage { get; set; } = "The C4 must be picked up within {seconds} seconds!";
+    public string SlayChatMessage { get; set; } = "You were slain for dropping the C4!";
+    public string SlayHudMessage { get; set; } = "You were slain for dropping the C4!";
 }
