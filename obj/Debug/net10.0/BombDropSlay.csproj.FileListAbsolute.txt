@@ -1,0 +1,10 @@
+D:\CS2\github\BombDropSlay\obj\Debug\net10.0\BombDropSlay.csproj.AssemblyReference.cache
+D:\CS2\github\BombDropSlay\obj\Debug\net10.0\BombDropSlay.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS2\github\BombDropSlay\obj\Debug\net10.0\BombDropSlay.csproj.CoreCompileInputs.cache
+D:\CS2\github\BombDropSlay\bin\Debug\net10.0\BombDropSlay.deps.json
+D:\CS2\github\BombDropSlay\bin\Debug\net10.0\BombDropSlay.dll
+D:\CS2\github\BombDropSlay\bin\Debug\net10.0\BombDropSlay.pdb
+D:\CS2\github\BombDropSlay\obj\Debug\net10.0\BombDropSlay.dll
+D:\CS2\github\BombDropSlay\obj\Debug\net10.0\refint\BombDropSlay.dll
+D:\CS2\github\BombDropSlay\obj\Debug\net10.0\BombDropSlay.pdb
+D:\CS2\github\BombDropSlay\obj\Debug\net10.0\ref\BombDropSlay.dll
